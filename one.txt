@@ -2,3 +2,4 @@ Hi I ama Bharat Mahanta
 I am Learning Git
 I have 5+ years Experience
 My skills is AWS and Devops
+I am in Bangalore
